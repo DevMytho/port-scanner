@@ -1,8 +1,8 @@
-# 🐱 MeowCode Port Scanner
+# Port Scanner
 
 A cross-platform network port scanner built with Python, Tkinter and Nmap — featuring a dark terminal-style GUI, automatic OS detection, and auto dependency installation.
 
-> Built and documented by [MeowCode](https://youtube.com/@MeowCode) on YouTube.
+> Built and documented by [MeowCode](https://youtube.com/@MeowCode1808) on YouTube.
 
 ---
 
@@ -148,7 +148,7 @@ The author takes no responsibility for misuse.
 
 This project was built live on YouTube — cross-platform edition included.
 
-**[▶ Watch on MeowCode](https://youtube.com/@MeowCode)**
+**[▶ Watch on MeowCode](https://youtube.com/@MeowCode1808)**
 
 ---
 
