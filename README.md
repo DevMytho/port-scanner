@@ -148,7 +148,7 @@ The author takes no responsibility for misuse.
 
 This project was built live on YouTube — cross-platform edition included.
 
-**[▶ Watch on MeowCode](https://youtube.com/@MeowCode1808)**
+**[▶ Watch on MeowCode](https://youtu.be/r_PB6_E9E8Q)**
 
 ---
 
